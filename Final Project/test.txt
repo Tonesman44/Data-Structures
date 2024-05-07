@@ -1,0 +1,12 @@
+doctor, Doctor Thomas, General Medicine, 10
+doctor, Doctor Taussig, Pediatrics, 8
+doctor, Doctor Sacks, Cardiology, 8
+doctor, Doctor Ofri, Neurology, 8
+patient, Patient Lacks, General Medicine, 2
+patient, Patient Gage, Pediatrics, 3
+patient, Patient Molaison, Cardiology, 4
+patient, Patient Writebol, Neurology, 3
+patient, Patient St. Martin, General Medicine, 1
+patient, Patient Washkansky, Pediatrics, 6
+patient, Patient Sandoval, Cardiology, 8
+patient, Patient Giese, Neurology, 6

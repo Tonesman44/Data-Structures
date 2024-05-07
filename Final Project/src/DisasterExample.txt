@@ -1,0 +1,4 @@
+Seattle: Butte (5), Portland (6)
+Butte: Seattle (5), Salt Lake City (10)
+Portland: Seattle (6)
+Salt Lake City: Butte (10)
